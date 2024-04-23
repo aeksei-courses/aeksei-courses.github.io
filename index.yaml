@@ -1,0 +1,4 @@
+title: Курсы
+links:
+  - title: Курс по разработке REST API на Django
+    href: django-web-api/
