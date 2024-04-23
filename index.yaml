@@ -1,4 +1,5 @@
 title: Курсы
 links:
   - title: Курс по разработке REST API на Django
+    description: Этот курс подойдет для тех, кто уже имеет опыт работы с Django и хочет расширить свои знания в части ORM и REST API.
     href: django-web-api/
