@@ -6,3 +6,6 @@ COPY Copying file blog/django-user-converters/Пользовательские �
 COPY Copying file blog/django-user-converters/Пользовательские конверторы в Django/Вопросы для закрепления/Вопрос 3/task.md
 COPY Copying file blog/django-user-converters/Пользовательские конверторы в Django/Вопросы для закрепления/Вопрос 4/task.md
 COPY Copying file blog/django-user-converters/Пользовательские конверторы в Django/Вопросы для закрепления/Вопрос 5/task.md
+COPY Copying file blog/django-user-converters/Пользовательские конверторы в Django/Пользовательские конверторы в Django/Конверторы в Django/task.md
+COPY Copying file blog/index.yaml
+COPY Copying file blog/toc.yaml
